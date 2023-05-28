@@ -2,7 +2,7 @@
 
 ### One Command Installation
 ```shell
-curl https://raw.githubusercontent.com/SapiCLI/SapiCLI/main/installs.sh | bash -
+curl https://raw.githubusercontent.com/SapiCLI/SapiCLI/main/setup.sh | bash -
 ```
 
 ### Usage
