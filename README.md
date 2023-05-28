@@ -35,7 +35,11 @@ pkill screen
 ```
 screen usage: https://linuxize.com/post/how-to-use-linux-screen/
 
+### Uninstall
+
+```shell
+curl https://raw.githubusercontent.com/SapiCLI/SapiCLI/main/delete.sh | bash -
+```
 
 
-
-stresserus/StressersIO API Client by [forky](https://t.me/yfork) & [t13r](https://github.com/ertugrulturan/)
+stresserus/StressersIO API Client by [forky](https://t.me/yfork) & [t13r](https://ET)
