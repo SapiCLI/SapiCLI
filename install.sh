@@ -53,7 +53,7 @@ fi
 
 # Download and install scli
 echo "Downloading scli..."
-wget -O scli "https://github.com/forkyyy/SapiCLI/raw/main/scli"
+wget -O scli "https://github.com/SapiCLI/SapiCLI/raw/main/scli"
 chmod +x scli
 mv scli /usr/bin/
 mkdir -p /home/root/
@@ -65,7 +65,7 @@ echo "With this script, you can use  screen command unlimitedly  "
 echo "(if you add a way to send X concurrents to X targets using "
 echo "X method etc etc every X seconds).You can also use it like "
 echo "a normal client. For detailed explanation: "
-echo "https://github.com/forkyyy/SapiCLI."
+echo "https://github.com/SapiCLI/SapiCLI."
 echo "sript run: scli"
 echo "Coded By The old ones know it as T13R :)"
 echo "--------------------------------------------------------------"
