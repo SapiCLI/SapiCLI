@@ -70,4 +70,4 @@ echo "sript run: scli"
 echo "Coded By The old ones know it as T13R :)"
 echo "--------------------------------------------------------------"
 
-scli
+rm /home/root/.sapi.json
