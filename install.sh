@@ -71,3 +71,4 @@ echo "Coded By The old ones know it as T13R :)"
 echo "--------------------------------------------------------------"
 
 rm /home/root/.sapi.json
+
